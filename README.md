@@ -4,7 +4,7 @@ Signal processing and machine intelligence researcher; final-year PhD student at
 
 **Working on:** computer vision, object detection, image annotation, segmentation, YOLO, SAM
 
-**Also known as:** Deborah Akuoko · Ama Akuoko · Deborah Ewurama Akuoko · Deborah Akuoko-Minka · Deborah A. Minka · Deborah Akuoko Minka
+**Also known as:** Deborah Akuoko · Ama Akuoko · A. Akuoko · Deborah Ewurama Akuoko · Deborah Akuoko-Minka · Deborah A. Minka · Deborah Akuoko Minka
 
 - Hugging Face: [@0001AMA](https://huggingface.co/0001AMA)
 - Profile hub: [ama-profile](https://github.com/2000pd3rvr/ama-profile)
