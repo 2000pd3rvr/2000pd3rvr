@@ -2,7 +2,7 @@
 
 Signal processing and machine intelligence researcher; final-year PhD student at the University of Edinburgh, School of Engineering (Integrated Micro and Nano Systems / SPAD and computer-vision ML).
 
-**Working on:** computer vision, object detection, image annotation, segmentation, YOLO, SAM
+**Working on:** computer vision, SPAD, object detection, material sensing, optical sensing, image annotation
 
 **Also known as:** Deborah Akuoko · Ama Akuoko · A. Akuoko · Deborah Ewurama Akuoko · Deborah Akuoko-Minka · Deborah A. Minka · Deborah Akuoko Minka
 
