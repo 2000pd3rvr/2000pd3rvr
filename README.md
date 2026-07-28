@@ -12,4 +12,4 @@ Signal processing and machine intelligence researcher; final-year PhD student at
 - Full links + CV refs: [LINKS.md](https://github.com/2000pd3rvr/ama-profile/blob/main/LINKS.md)
 - Org: [mvplus](https://huggingface.co/mvplus)
 
-Open to collaboration on machine intelligence, detection, segmentation, and multimodal annotation.
+Open to collaboration on computer vision, detection, segmentation, and multimodal annotation.
