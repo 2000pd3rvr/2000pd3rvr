@@ -1,10 +1,10 @@
 ### Hi — I'm AMA Akuoko (Deborah Akuoko Minka)
 
-Signal processing and machine intelligence researcher; final-year PhD student at the University of Edinburgh, School of Engineering (Integrated Micro and Nano Systems / SPAD and computer-vision ML).
+Researcher focused on machine intelligence; PhD in Engineering (University of Edinburgh). Previous work on SPAD sensing, computer vision, and open ML artefacts on GitHub and Hugging Face.
 
 **Working on:** computer vision, SPAD, object detection, material sensing, optical sensing, image annotation
 
-**Also known as:** Deborah Akuoko · Ama Akuoko · A. Akuoko · Deborah Ewurama Akuoko · Deborah Akuoko-Minka · Deborah A. Minka · Deborah Akuoko Minka
+**Also known as:** Deborah Akuoko Minka · Deborah Akuoko-Minka · Deborah Akuoko · Ama Akuoko · A. Akuoko · Deborah Ewurama Akuoko · Deborah A. Minka · Deborah E. M. Akuoko
 
 - ORCID (list first): [https://orcid.org/0009-0008-6219-154X](https://orcid.org/0009-0008-6219-154X)
 - Hugging Face: [@0001AMA](https://huggingface.co/0001AMA)
