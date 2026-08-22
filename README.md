@@ -6,7 +6,7 @@ Researcher focused on machine intelligence; PhD in Engineering (University of Ed
 
 **Also known as:** Deborah Akuoko Minka · Deborah Akuoko-Minka · Deborah Akuoko · Ama Akuoko · A. Akuoko · Deborah Ewurama Akuoko · Deborah A. Minka · Deborah E. M. Akuoko
 
-- ORCID (list first): [https://orcid.org/0009-0008-6219-154X](https://orcid.org/0009-0008-6219-154X)
+- ORCID: [https://orcid.org/0009-0008-6219-154X](https://orcid.org/0009-0008-6219-154X)
 - Profile hub: [ama-profile](https://github.com/2000pd3rvr/ama-profile)
 - Full links + CV refs: [LINKS.md](https://github.com/2000pd3rvr/ama-profile/blob/main/LINKS.md)
 
