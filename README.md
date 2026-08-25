@@ -13,4 +13,9 @@ Researcher focused on machine intelligence; PhD in Engineering (University of Ed
 - Profile hub: [ama-profile](https://github.com/2000pd3rvr/ama-profile)
 - Full links + CV refs: [LINKS.md](https://github.com/2000pd3rvr/ama-profile/blob/main/LINKS.md)
 
+## WordPress articles
+
+- [Spatial vs. time-resolved images](https://deborahakuokominka.wordpress.com/2026/08/22/spatial-vs-time-resolved-images-2/)
+- [Time-of-flight sensors guide](https://deborahakuokominka.wordpress.com/2026/08/22/time-of-flight-sensors-guide/)
+
 Open to collaboration on signal processing, detection, segmentation, and multimodal annotation.
