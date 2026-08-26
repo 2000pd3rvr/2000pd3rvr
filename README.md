@@ -2,7 +2,7 @@
 
 Researcher in signal processing, machine intelligence, and SPAD sensing.
 
-## Peer-reviewed manuscripts
+## Preprints and peer-reviewed manuscripts
 
 **Optica Open (author: A. Akuoko — same person)**
 
