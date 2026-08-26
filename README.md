@@ -1,6 +1,25 @@
 ### Hi — I'm AMA Akuoko (Deborah Akuoko Minka)
 
-Researcher focused on machine intelligence; PhD in Engineering (University of Edinburgh). Previous work on SPAD sensing, signal processing, and open ML artefacts on GitHub and Streamlit.
+Researcher in signal processing, machine intelligence, and SPAD sensing.
+
+## Peer-reviewed manuscripts
+
+**Optica Open (author: A. Akuoko — same person)**
+
+- [PAWD — signal processing across sensing modalities](https://doi.org/10.1364/opticaopen.31956108) · [preprint](https://preprint.opticaopen.org/31956108)
+- [Non-spectral time-resolved SPAD material classification](https://doi.org/10.1364/opticaopen.31957221) · [preprint](https://preprint.opticaopen.org/31957221)
+- [Spatiotemporal fusion for material-aware object detection](https://doi.org/10.1364/opticaopen.31960611.v1) · [preprint](https://preprint.opticaopen.org/31960611.v1)
+- [Time-resolved SPAD transients for milk purity (optical sensing)](https://doi.org/10.1364/opticaopen.31964601) · [preprint](https://preprint.opticaopen.org/31964601)
+
+**Research Square (author: A. Akuoko)**
+
+- [Beyond Appearance — material-aware object detection](https://doi.org/10.21203/rs.3.rs-10412364/v1) · [article](https://www.researchsquare.com/article/rs-10412364/v1)
+- [Beyond Appearance — homogenised milk purity (transient vision)](https://doi.org/10.21203/rs.3.rs-10434018/v1) · [article](https://www.researchsquare.com/article/rs-10434018/v1)
+
+**arXiv**
+
+- [Hounsfield volumetric breast density on radiotherapy CT](https://arxiv.org/abs/2110.04929v1) (Deborah E. M. Akuoko)
+
 
 **Working on:** signal processing, SPAD, object detection, material sensing, optical sensing, image annotation
 
