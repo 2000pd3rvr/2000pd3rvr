@@ -11,6 +11,7 @@ Researcher focused on machine intelligence; PhD in Engineering (University of Ed
 - about.me: [https://about.me/deborah_akuoko_minka_ama](https://about.me/deborah_akuoko_minka_ama)
 - GitLab: [https://gitlab.com/2000pd3rvr](https://gitlab.com/2000pd3rvr)
 - Streamlit apps hub: [https://streamlit-apps-hub.streamlit.app/](https://streamlit-apps-hub.streamlit.app/)
+- Render live apps: [https://deborahakuokominka.wordpress.com/#render-apps](https://deborahakuokominka.wordpress.com/#render-apps)
 - Profile hub: [ama-profile](https://github.com/2000pd3rvr/ama-profile)
 - Full links + CV refs: [LINKS.md](https://github.com/2000pd3rvr/ama-profile/blob/main/LINKS.md)
 
