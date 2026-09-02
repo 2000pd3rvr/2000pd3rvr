@@ -26,7 +26,7 @@ Researcher in signal processing, machine intelligence, and SPAD sensing.
 **Also known as:** Deborah Akuoko Minka · Deborah Akuoko-Minka · Deborah Akuoko · Ama Akuoko · A. Akuoko · Deborah Ewurama Akuoko · Deborah A. Minka · Deborah E. M. Akuoko
 
 - ORCID: [https://orcid.org/0009-0008-6219-154X](https://orcid.org/0009-0008-6219-154X)
-- WordPress (primary): [https://deborahakuokominka.wordpress.com/](https://deborahakuokominka.wordpress.com/)
+- WordPress research site: [https://deborahakuokominka.wordpress.com/](https://deborahakuokominka.wordpress.com/)
 - about.me: [https://about.me/deborah_akuoko_minka_ama](https://about.me/deborah_akuoko_minka_ama)
 - GitLab: [https://gitlab.com/2000pd3rvr](https://gitlab.com/2000pd3rvr)
 - Streamlit apps hub: [https://streamlit-apps-hub.streamlit.app/](https://streamlit-apps-hub.streamlit.app/)
